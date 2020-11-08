@@ -1,3 +1,2 @@
-print('Hello Python')
-
-input("What is your name?")
+print("Day 1 - Python print function")
+print("why should I print('what to print')")
