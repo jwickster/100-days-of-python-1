@@ -21,6 +21,15 @@
 
 # firstName = input('Enter your first name')
 # print(len(firstName))
-
-print(len(input("What is your name?")))
+#
+# print(len(input("What is your name?")))
+a = input('a:')
+b = input('b:')
+##################
+temp = a
+a = b
+b = temp
+#################
+print('a = ' + a)
+print('b = ' + b)
 
