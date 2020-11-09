@@ -23,6 +23,8 @@
 # print(len(firstName))
 #
 # print(len(input("What is your name?")))
+
+
 a = input('a:')
 b = input('b:')
 ##################
@@ -32,4 +34,3 @@ b = temp
 #################
 print('a = ' + a)
 print('b = ' + b)
-
